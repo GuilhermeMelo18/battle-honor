@@ -4,7 +4,7 @@ Este projeto tem por objetivo utilizar técnicas relacionadas a área de Realida
 
 <img src="https://preview.ibb.co/iyJFkc/combate3.png" alt="combate3" border="0" style="text-align:center;">
 
-## Prerequisitos
+## Pré-requisitos
 
 * [Unity - Versão 2017.3.+](https://store.unity.com/pt/download?ref=personal)
 * [Vuforia - 7.+](https://developer.vuforia.com/downloads/sdk)
