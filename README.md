@@ -28,4 +28,4 @@ Este projeto tem por objetivo utilizar técnicas relacionadas a área de Realida
 
 ## License
 
-MIT License
+GNU General Public License v3.0
