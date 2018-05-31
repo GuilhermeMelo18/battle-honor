@@ -15,19 +15,19 @@ Este projeto tem por objetivo utilizar técnicas relacionadas a área de Realida
 ### Instalação
 
 * Baixar Unity 
-* Na instalação do Unity Baixar a extensão da Ferramenta Vuforia
-* Clonar o projeto 
-* Baixar Marcadores (https://drive.google.com/open?id=1HvwNIFTxSjeT4trbcQoKlNIZw3QuNMvl)
-* Abrir o projeto no Unity 
+* Na instalação do Unity, Baixar a extensão da Ferramenta Vuforia.
+* Clonar o projeto.
+* Baixar Marcadores (https://drive.google.com/open?id=1HvwNIFTxSjeT4trbcQoKlNIZw3QuNMvl).
+* Abrir o projeto no Unity.
 * Abrir a cena gameScene.unity da pasta do projeto. File->Open Scene.
-* Rodar Projeto com o Unity num PC ou Smartphone
+* Rodar Projeto com o Unity num PC ou Smartphone.
 
 ### Tutorial
 
-* Link Para o Vídeo (https://www.youtube.com/watch?v=x5RIAj0BPL4&t=18s)
-* Artigo (https://drive.google.com/open?id=13gYiDtBil6iZBQtOjuhsnLH2Nj_5CJDo)
+* Link Para o Vídeo (https://www.youtube.com/watch?v=x5RIAj0BPL4&t=18s) .
+* Artigo (https://drive.google.com/open?id=13gYiDtBil6iZBQtOjuhsnLH2Nj_5CJDo) .
 
 
 ## License
 
-* GNU General Public License v3.0
+* GNU General Public License v3.0 .
