@@ -18,6 +18,8 @@ Este projeto tem por objetivo utilizar técnicas relacionadas a área de Realida
 * Na instalação do Unity Baixar a extensão da Ferramenta Vuforia
 * Clonar o projeto 
 * Baixar Marcadores (https://drive.google.com/open?id=1HvwNIFTxSjeT4trbcQoKlNIZw3QuNMvl)
+* Abrir o projeto no Unity 
+* Abrir a cena gameScene.unity da pasta do projeto. File->Open Scene.
 * Rodar Projeto com o Unity num PC ou Smartphone
 
 ### Tutorial
