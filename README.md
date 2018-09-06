@@ -1,31 +1,30 @@
 # Battle-Honor
 
-Este projeto tem por objetivo utilizar técnicas relacionadas a área de Realidade Aumentada para o desenvolvimento da dinâmica e ambientação iterativa de jogos com gênero de luta em 3D, de forma que os jogadores tenham uma maior sensação de imersão ao jogo, com a mistura do mundo virtual ao mundo real.
+This project uses techniques of Augmented Reality in the development of fighting games in 3D, in this way players will have a greater sense of immersion in the game, mixing the virtual world with the real world.
 
 <img src="https://preview.ibb.co/iyJFkc/combate3.png" alt="combate3" border="0" style="text-align:center;">
 
-## Pré-requisitos
+## Prerequisites
 
 * [Unity - Versão 2017.3.+](https://store.unity.com/pt/download?ref=personal)
 * [Vuforia - 7.+](https://developer.vuforia.com/downloads/sdk)
 
 ## Getting Started
 
+### Installing
 
-### Instalação
-
-* Baixar Unity 
-* Na instalação do Unity, Baixar a extensão da Ferramenta Vuforia.
-* Clonar o projeto.
-* Baixar Marcadores (https://drive.google.com/open?id=1HvwNIFTxSjeT4trbcQoKlNIZw3QuNMvl).
-* Abrir o projeto no Unity.
-* Abrir a cena gameScene.unity da pasta do projeto. File->Open Scene.
-* Rodar Projeto com o Unity num PC ou Smartphone.
+* Download Unity 
+* When installing Unity, download the Vuforia Tool extension.
+* Clone the project.
+* Download Target Markers (https://drive.google.com/open?id=1HvwNIFTxSjeT4trbcQoKlNIZw3QuNMvl).
+* Open the project in Unity.
+* Open gameScene.unity scene in the project folder. File-> Open Scene.
+* Run Project with Unity on a PC or Smartphone.
 
 ### Tutorial
 
-* Link Para o Vídeo (https://www.youtube.com/watch?v=x5RIAj0BPL4&t=18s) .
-* Artigo (https://drive.google.com/open?id=13gYiDtBil6iZBQtOjuhsnLH2Nj_5CJDo) .
+* Link to Video (https://www.youtube.com/watch?v=x5RIAj0BPL4&t=18s) .
+* Article (https://drive.google.com/open?id=13gYiDtBil6iZBQtOjuhsnLH2Nj_5CJDo) .
 
 
 ## License
