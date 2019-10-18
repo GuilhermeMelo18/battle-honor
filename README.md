@@ -6,8 +6,8 @@ This project uses techniques of Augmented Reality in the development of fighting
 
 ## Prerequisites
 
-* [Unity - Versão 2017.3.+](https://store.unity.com/pt/download?ref=personal)
-* [Vuforia - 7.+](https://developer.vuforia.com/downloads/sdk)
+* [Unity](https://store.unity.com/pt/download?ref=personal)
+* [Vuforia](https://developer.vuforia.com/downloads/sdk)
 
 ## Getting Started
 
